@@ -1,3 +1,7 @@
+# my-vim-config
+
+一套自用的 Vim 配置，附 `install.sh`（Linux / macOS）与 `install.ps1`（Windows）一键安装脚本。
+
 ## Usage
 
 ### Linux / macOS
